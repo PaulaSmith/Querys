@@ -13,3 +13,4 @@ INSERT INTO groceries VALUES (3, "Dark chocolate bars", 2);
 SELECT * FROM groceries;
 
 /*HACIENDO MODIFICACION DE PRUEBA2*/
+/*test*/
